@@ -1,0 +1,2 @@
+# repl-kit
+repl-kit is a suite of shell scripts for maintaining static mirrors for software distribution. repl-kit aims to be a tool for both the master and mirror sites. The master site can confirm the integrity of the offered mirrors, and list them in a simple HTML frame when verified. The mirror sites can update the local software repository as needed. repl-kit (should be) fully portable to any free Unix-like operating system, and is also capable of dwelling in the world of Tor hidden services.
